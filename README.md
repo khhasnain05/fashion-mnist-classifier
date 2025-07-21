@@ -38,3 +38,5 @@ It classifies images into 10 clothing categories and supports testing on **real-
 8: Bag
 9: Ankle boot
 ```
+
+---
