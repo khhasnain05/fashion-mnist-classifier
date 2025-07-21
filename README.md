@@ -43,8 +43,7 @@ It classifies images into 10 clothing categories and supports testing on **real-
 
 ## 📤 Output
 
-<img width="1024" height="1024" alt="Test_Image" src="https://github.com/user-attachments/assets/d391049a-1e79-4a2d-b5b6-da194350f8aa" />
-
+<img width="1919" height="948" alt="Screenshot 2025-07-21 195613" src="https://github.com/user-attachments/assets/519a0bf7-8218-4e56-8846-ae0c63294b09" />
 
 ---
 
